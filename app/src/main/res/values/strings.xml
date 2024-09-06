@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="clear">CLEAR</string>
+    <string name="hint">e.g., 2</string>
+    <string name="radius">Radius :</string>
+    <string name="circularArea">Circular Area :</string>
 </resources>
